@@ -39,8 +39,8 @@ A lightweight Python-based Intrusion Detection System (IDS) that monitors live n
 ###### in kali-linux:-
 
 **install requirements -** 
-*python3 -m venv venv*
-*source venv/bin/activate*
-*pip install -r requirements.txt*
+* python3 -m venv venv
+* source venv/bin/activate
+* pip install -r requirements.txt
 
 **After installing requirements Simply run -** *sudo python run_ids.py*
