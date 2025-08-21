@@ -31,11 +31,16 @@ A lightweight Python-based Intrusion Detection System (IDS) that monitors live n
 
 ###### uses:-
 
-
+###### in windows:-
 
 **install requirements -** *pip install -r requirements.txt*
-
-
-
 **After installing requirements Simply run -** *python run\_ids.py*
 
+###### in kali-linux:-
+
+**install requirements -** 
+*python3 -m venv venv*
+*source venv/bin/activate*
+*pip install -r requirements.txt*
+
+**After installing requirements Simply run -** *sudo python run_ids.py*
