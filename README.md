@@ -33,8 +33,11 @@ A lightweight Python-based Intrusion Detection System (IDS) that monitors live n
 
 ###### in windows:-
 
-**install requirements -** *pip install -r requirements.txt*
-**After installing requirements Simply run -** *python run\_ids.py*
+**install requirements -**
+* pip install -r requirements.txt
+  
+**After installing requirements Simply run -**
+* python run_ids.py
 
 ###### in kali-linux:-
 
@@ -43,4 +46,5 @@ A lightweight Python-based Intrusion Detection System (IDS) that monitors live n
 * source venv/bin/activate
 * pip install -r requirements.txt
 
-**After installing requirements Simply run -** *sudo python run_ids.py*
+**After installing requirements Simply run -**
+* sudo python run_ids.py
