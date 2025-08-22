@@ -54,8 +54,9 @@ A lightweight Python-based Intrusion Detection System (IDS) that monitors live n
 ![Network-Intrusion Detection System](assets/Network-IDS.png)
 
 <br>
-Disclaimer:
-This project is created for educational and research purposes only. 
-The author is not responsible for any misuse or damage caused by this tool. 
+## Disclaimer:
+
+This project is created for educational and research purposes only.  
+The author is not responsible for any misuse or damage caused by this tool.  
 Use this software only on systems you own or have explicit permission to test.
 
