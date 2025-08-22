@@ -50,4 +50,4 @@ A lightweight Python-based Intrusion Detection System (IDS) that monitors live n
 * `sudo python run_ids.py`
 
 
-(assets/Network-IDS.png)
+[Network-Intrusion Detection System](assets/Network-IDS.png)
