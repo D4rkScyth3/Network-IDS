@@ -48,3 +48,6 @@ A lightweight Python-based Intrusion Detection System (IDS) that monitors live n
 
 **After installing requirements Simply run -**
 * `sudo python run_ids.py`
+
+
+`(assets/Network-IDS.png)`
