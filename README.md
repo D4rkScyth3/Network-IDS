@@ -34,7 +34,7 @@ A lightweight Python-based Intrusion Detection System (IDS) that monitors live n
 ###### in windows:-
 
 **install requirements -**
-* pip install -r requirements.txt
+* 'pip install -r requirements.txt'
   
 **After installing requirements Simply run -**
 * python run_ids.py
